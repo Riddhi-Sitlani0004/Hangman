@@ -1,2 +1,2 @@
-# Rock, Paper and Scissor
+# Hangman
 #include <iostream>
