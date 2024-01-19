@@ -1,10 +1,10 @@
 # Rock, paper and scissor
 
-#include <iostream>
-#include <time.h>
-#include <stdlib.h>
-#include <string.h>
-using namespace std;
+#include <iostream><br>
+#include <time.h><br>
+#include <stdlib.h><br>
+#include <string.h><br>
+using namespace std;<br>
 
 int main(){
     srand(time(NULL));
